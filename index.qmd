@@ -38,5 +38,5 @@ I am a first-year PhD student in Statistical Data Analysis at [Ghent University]
 
 ## **Teaching**
 
--   Causal Machine Learning(https://studiekiezer.ugent.be/2024/studiefiche/en/C004413), M.Sc in Statistical Data Analysis, Ghent University\
+-   [Causal Machine Learning](https://studiekiezer.ugent.be/2024/studiefiche/en/C004413){style="text-decoration: none"}, M.Sc in Statistical Data Analysis, Ghent University\
     *Spring 2025* \[taught in English\]
