@@ -23,7 +23,7 @@ about:
     - text: "{{< iconify fa6-brands:google-scholar >}} Google Scholar" 
 ---
 
-I am a first-year PhD student in Statistical Data Analysis at [Ghent University](https://www.ugent.be/en){style="text-decoration: none"} under the supervision of Prof. Dr. [Stijn Vansteelandt](https://users.ugent.be/~svsteela/){style="text-decoration: none"} (Ghent University).
+I am a first-year PhD student in Statistical Data Analysis at [Ghent University](https://www.ugent.be/en){style="text-decoration: none"} under the supervision of Prof. Dr. [Stijn Vansteelandt](https://users.ugent.be/~svsteela/){style="text-decoration: none"} (Ghent University). My research lies at the intersection of causal inference and debiased machine learning. If you want to get in touch, please don’t hesitate to contact me.
 
 ## **Education**
 
@@ -36,4 +36,7 @@ I am a first-year PhD student in Statistical Data Analysis at [Ghent University]
 -   BSc in Economia Aziendale, University of Bologna, Italy\
     Sept 2018 - July 2021
 
+## **Teaching**
 
+-   Causal Machine Learning(https://studiekiezer.ugent.be/2024/studiefiche/en/C004413), M.Sc in Statistical Data Analysis, Ghent University\
+    *Spring 2025* \[taught in English\]

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Federico Bertoia",
     "section": "",
-    "text": "I am a first-year PhD student in Statistical Data Analysis at Ghent University under the supervision of Prof. Dr. Stijn Vansteelandt (Ghent University)."
+    "text": "I am a first-year PhD student in Statistical Data Analysis at Ghent University under the supervision of Prof. Dr. Stijn Vansteelandt (Ghent University). My research lies at the intersection of causal inference and debiased machine learning. If you want to get in touch, please don’t hesitate to contact me."
   },
   {
     "objectID": "index.html#education",
@@ -12,6 +12,13 @@
     "title": "Federico Bertoia",
     "section": "Education",
     "text": "Education\n\nPhD in Statistical Data Analysis, Ghent University, Belgium\nNov 2024 - Aug 2028 (expected)\nMSc in Economics and Econometrics, University of Bologna, Italy\nSept 2021 - Dec 2023\nBSc in Economia Aziendale, University of Bologna, Italy\nSept 2018 - July 2021"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Federico Bertoia",
+    "section": "Teaching",
+    "text": "Teaching\n\nCausal Machine Learning(https://studiekiezer.ugent.be/2024/studiefiche/en/C004413), M.Sc in Statistical Data Analysis, Ghent University\nSpring 2025 [taught in English]"
   },
   {
     "objectID": "aboutme.html",
