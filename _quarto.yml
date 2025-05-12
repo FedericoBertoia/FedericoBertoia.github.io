@@ -9,7 +9,7 @@ website:
     search: true
     left:
       - href: index.qmd
-        text: About
+        text: Home
   page-footer: "&#169; Federico Bertoia, 2025"
       
 
