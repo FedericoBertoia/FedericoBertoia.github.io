@@ -5,7 +5,7 @@ subtitle: |
       |
       | Department of Mathematics, Computer Science and Statistics 
       | Ghent University
-image: mypic.jpg
+image: mypic.jpeg
 about:
   template: solana
   image-shape: round
