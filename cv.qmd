@@ -1,0 +1,32 @@
+---
+title: "CV"
+---
+
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+<!-- Desktop iframe -->
+<iframe class="desktop-only" 
+        src="Federico_Bertoia_CV.pdf" 
+        width="100%" 
+        height="600px" 
+        style="border:1px solid #ccc;">
+</iframe>
+
+<!-- Mobile link -->
+<p class="mobile-only">
+  <a href="Federico_Bertoia_CV.pdf" target="_blank">Download CV</a>
+</p>
+
+<!-- CSS to hide/show elements based on screen size -->
+<style>
+  @media (max-width: 768px) {
+    .desktop-only { display: none; }
+  }
+  @media (min-width: 769px) {
+    .mobile-only { display: none; }
+  }
+</style>
+

@@ -8,8 +8,12 @@ website:
     background: secondary
     search: true
     left:
-      - href: index.qmd
-        text: Home
+      - text: Home
+        file: index.qmd
+      - text: Research
+        file: research.qmd
+      - text: Curriculum Vitae
+        file: cv.qmd
   page-footer: "&#169; Federico Bertoia, 2025"
       
 
