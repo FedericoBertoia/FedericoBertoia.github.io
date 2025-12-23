@@ -1,3 +1,9 @@
 ## **Work in Progress**
 
--   *Debiased Machine Learning for Generalized Partially Linear Models* with Stijn Vansteelandt.
+-   **Debiased Machine Learning for Generalized Partially Linear Models** with Stijn Vansteelandt.
+
+## **Presentations**
+
+- **Debiased Machine Learning for Generalized Partially Linear Models**\
+  *Contributed talk at the [IMS International Conference on Statistics and Data Science (ICSDS)](https://sites.google.com/view/ims-icsds2025/){style="text-decoration: none"}, Seville, Spain\
+  *December 2025
