@@ -4,21 +4,28 @@
     "href": "research.html",
     "title": "Federico Bertoia",
     "section": "",
-    "text": "Debiased Machine Learning for Generalized Partially Linear Models with Stijn Vansteelandt."
+    "text": "Debiased Machine Learning for Generalized Partially Linear Models with Achille Demares, Georgi Baklicharov and Stijn Vansteelandt."
   },
   {
     "objectID": "research.html#work-in-progress",
     "href": "research.html#work-in-progress",
     "title": "Federico Bertoia",
     "section": "",
-    "text": "Debiased Machine Learning for Generalized Partially Linear Models with Stijn Vansteelandt."
+    "text": "Debiased Machine Learning for Generalized Partially Linear Models with Achille Demares, Georgi Baklicharov and Stijn Vansteelandt."
   },
   {
     "objectID": "research.html#presentations",
     "href": "research.html#presentations",
     "title": "Federico Bertoia",
     "section": "Presentations",
-    "text": "Presentations\n\nDebiased Machine Learning for Generalized Partially Linear Models\nContributed talk at the IMS International Conference on Statistics and Data Science (ICSDS), Seville, Spain\nDecember 2025"
+    "text": "Presentations\n\nDebiased Machine Learning for Generalized Partially Linear Models\nContributed talk at the European Causal Inference Meeting (EuroCIM), Oxford, United Kingdom\nApril 2026\nDebiased Machine Learning for Generalized Partially Linear Models\nContributed talk at the IMS International Conference on Statistics and Data Science (ICSDS), Seville, Spain\nDecember 2025"
+  },
+  {
+    "objectID": "research.html#teaching",
+    "href": "research.html#teaching",
+    "title": "Federico Bertoia",
+    "section": "Teaching",
+    "text": "Teaching\n\nCausal Machine Learning, M.Sc in Statistical Data Analysis, Ghent University\nSpring 2025, 2026"
   },
   {
     "objectID": "cv.html",
@@ -40,12 +47,5 @@
     "title": "Federico Bertoia",
     "section": "Education",
     "text": "Education\n\nPhD in Statistics, Ghent University, Belgium\nNov 2024 - Nov 2028 (expected)\nMSc in Economics and Econometrics (with honours), University of Bologna, Italy\nSept 2021 - Dec 2023\nBSc in Economia Aziendale (with honours), University of Bologna, Italy\nSept 2018 - July 2021"
-  },
-  {
-    "objectID": "index.html#teaching",
-    "href": "index.html#teaching",
-    "title": "Federico Bertoia",
-    "section": "Teaching",
-    "text": "Teaching\n\nCausal Machine Learning, M.Sc in Statistical Data Analysis, Ghent University\nSpring 2025"
   }
 ]

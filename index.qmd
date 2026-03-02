@@ -36,7 +36,4 @@ I am a second-year PhD student in Statistics at [Ghent University](https://www.u
 -   BSc in Economia Aziendale (with honours), University of Bologna, Italy\
     Sept 2018 - July 2021
 
-## **Teaching**
 
--   [Causal Machine Learning](https://studiekiezer.ugent.be/2024/studiefiche/en/C004413){style="text-decoration: none"}, M.Sc in Statistical Data Analysis, Ghent University\
-    *Spring 2025* 

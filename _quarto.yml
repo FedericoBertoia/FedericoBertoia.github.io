@@ -14,7 +14,7 @@ website:
         file: research.qmd
       - text: Curriculum Vitae
         file: cv.qmd
-  page-footer: "&#169; Federico Bertoia, 2025"
+  page-footer: "&#169; Federico Bertoia, 2026"
       
 
 format:
