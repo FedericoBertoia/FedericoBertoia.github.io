@@ -2,6 +2,8 @@
 
 - **Debiased Risk Minimization with Application to Conditional Average Shift Intervention Effects** with Achille Demares, Georgi Baklicharov and Stijn Vansteelandt.
 
+- **The toll of an early bell? School start time and adolescent sleep quality in Flanders, Belgium** with Ann Vandendriessche, Louise Poppe, Thijs Galmart, Margaux Rigole, Stijn Vansteelandt and Maxim Dierckens.
+
 ## **Presentations**
 
 - **Debiased Risk Minimization with Application to Conditional Average Shift Intervention Effects**\
