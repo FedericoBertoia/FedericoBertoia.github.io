@@ -1,10 +1,17 @@
+# R / RStudio
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
-
-
+# Quarto caches and temp files
 /.quarto/
-
 **/*.quarto_ipynb
+
+# Windows / OneDrive
+desktop.ini
+Thumbs.db
+
+# CV: keep only CV/main.tex (the PDF used by the site is copied to the root and docs/)
+CV/*
+!CV/main.tex
