@@ -5,7 +5,6 @@ project:
 website:
   title: Federico Bertoia
   navbar:
-    background: secondary
     search: true
     left:
       - text: Home
@@ -15,16 +14,15 @@ website:
       - text: Curriculum Vitae
         file: cv.qmd
   page-footer: "&#169; Federico Bertoia, 2026"
-      
+
 
 format:
   html:
     theme:
-      light: cosmo
-      dark: [cosmo, theme-dark.scss]
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-light.scss, theme-dark.scss]
     css: styles.css
     toc: false
-    page-layout: full
+    page-layout: article
 
 editor: visual
-

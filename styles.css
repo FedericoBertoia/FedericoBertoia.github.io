@@ -1,1 +1,112 @@
 /* css styles */
+
+/* --- Navbar: light bar with a hairline border --- */
+.navbar {
+  border-bottom: 1px solid rgba(127, 127, 127, 0.18);
+  box-shadow: none;
+}
+.navbar-title {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+/* --- Headings: serif, with a short accent rule instead of a full underline --- */
+main h2 {
+  border-bottom: none;
+  margin-top: 2.6rem;
+  margin-bottom: 1.2rem;
+  font-weight: 600;
+}
+main h2::after {
+  content: "";
+  display: block;
+  width: 2.5rem;
+  height: 3px;
+  margin-top: 0.45rem;
+  background: var(--bs-primary);
+  border-radius: 2px;
+}
+
+/* Links without underline, underline on hover */
+main a { text-decoration: none; }
+main a:hover { text-decoration: underline; }
+
+/* --- Home page (trestles) --- */
+.quarto-about-trestles .about-entity .about-image {
+  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.12);
+}
+.quarto-about-trestles .about-entity .title {
+  font-weight: 600;
+}
+.quarto-about-trestles .about-entity .about-link {
+  border-radius: 999px;
+  padding: 0.2rem 0.75rem;
+}
+.lead-text {
+  font-size: 1.08rem;
+}
+
+/* --- Timeline-style entries: date column + body --- */
+.entry {
+  display: grid;
+  grid-template-columns: 10.5rem 1fr;
+  gap: 1.25rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid rgba(127, 127, 127, 0.15);
+}
+.entry:last-of-type { border-bottom: none; }
+.entry > p { margin: 0; }
+.entry-date {
+  font-size: 0.88rem;
+  color: var(--bs-secondary-color, #6c757d);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  padding-top: 0.12rem;
+}
+.entry-body p { margin: 0; }
+
+/* --- Paper cards --- */
+.paper {
+  border: 1px solid rgba(127, 127, 127, 0.2);
+  border-left: 3px solid var(--bs-primary);
+  border-radius: 6px;
+  padding: 0.9rem 1.1rem;
+  margin-bottom: 0.9rem;
+}
+.paper p { margin: 0.15rem 0; }
+.authors {
+  font-size: 0.92rem;
+  color: var(--bs-secondary-color, #6c757d);
+}
+
+/* --- Small labels --- */
+.kind {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--bs-primary);
+  margin-right: 0.4rem;
+}
+.entry-body .kind { display: block; margin-bottom: 0.1rem; }
+.tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  padding: 0.05rem 0.5rem;
+  margin-left: 0.35rem;
+  border-radius: 999px;
+  background: rgba(30, 100, 200, 0.1);
+  color: var(--bs-primary);
+  vertical-align: 0.1em;
+}
+
+/* --- Phones: stack the date above the body --- */
+@media (max-width: 576px) {
+  .entry {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
+  .entry-date { white-space: normal; }
+}

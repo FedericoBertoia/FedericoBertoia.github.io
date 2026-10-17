@@ -1,15 +1,14 @@
 ---
 title: "Federico Bertoia"
 subtitle: |
-      | PhD Student
-      |
-      | Department of Mathematics, Computer Science and Statistics 
+      | PhD Student in Statistics
+      | Department of Mathematics, Computer Science and Statistics
       | Ghent University
 image: mypic.jpeg
 about:
-  template: solana
+  template: trestles
   image-shape: round
-  image-width: 20em
+  image-width: 13em
   links:
     - text: Email
       icon: envelope
@@ -20,20 +19,38 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/federicobertoia/
-    - text: "{{< iconify fa6-brands:google-scholar >}} Google Scholar" 
+    - text: "{{< iconify fa6-brands:google-scholar >}} Google Scholar"
 ---
 
-I am a second-year PhD student in Statistics at [Ghent University](https://www.ugent.be/en){style="text-decoration: none"} under the supervision of Prof. Dr. [Stijn Vansteelandt](https://users.ugent.be/~svsteela/){style="text-decoration: none"}. My research lies at the intersection of causal inference and debiased machine learning. If you want to get in touch, please don’t hesitate to contact me.
+::: lead-text
+I am a second-year PhD student in Statistics at [Ghent University](https://www.ugent.be/en) under the supervision of Prof. Dr. [Stijn Vansteelandt](https://users.ugent.be/~svsteela/). My research lies at the intersection of **causal inference** and **debiased machine learning**. If you want to get in touch, please don't hesitate to contact me.
+:::
 
-## **Education**
+## Education
 
--   PhD in Statistics, Ghent University, Belgium\
-    Nov 2024 - Nov 2028 (expected)
+::: entry
+[Nov 2024 – Nov 2028]{.entry-date}
 
--   MSc in Economics and Econometrics (with honours), University of Bologna, Italy\
-    Sept 2021 - Dec 2023
+::: entry-body
+**PhD in Statistics** [expected]{.tag}\
+Ghent University, Belgium
+:::
+:::
 
--   BSc in Economia Aziendale (with honours), University of Bologna, Italy\
-    Sept 2018 - July 2021
+::: entry
+[Sept 2021 – Dec 2023]{.entry-date}
 
+::: entry-body
+**MSc in Economics and Econometrics** [with honours]{.tag}\
+University of Bologna, Italy
+:::
+:::
 
+::: entry
+[Sept 2018 – July 2021]{.entry-date}
+
+::: entry-body
+**BSc in Economia Aziendale** [with honours]{.tag}\
+University of Bologna, Italy
+:::
+:::

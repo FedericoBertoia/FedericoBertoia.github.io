@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap');
+
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif !default;
+$headings-font-family: "Source Serif 4", Georgia, serif !default;
+$font-size-root: 16px !default;
+$line-height-base: 1.6 !default;
+
+// UGent blue as the accent
+$primary: #1E64C8 !default;
+$link-color: #1E64C8 !default;
+
+// Light navbar with a hairline border instead of the dark bar
+$navbar-bg: #ffffff !default;
+$navbar-fg: #4a4a4a !default;
+$navbar-hl: #1E64C8 !default;
+
+$footer-bg: #ffffff !default;
