@@ -32,7 +32,7 @@ I am a second-year PhD student in Statistics at [Ghent University](https://www.u
 [Nov 2024 – Nov 2028]{.entry-date}
 
 ::: entry-body
-**PhD in Statistics** [expected]{.tag}\
+**PhD in Statistics**\
 Ghent University, Belgium
 :::
 :::
@@ -41,7 +41,7 @@ Ghent University, Belgium
 [Sept 2021 – Dec 2023]{.entry-date}
 
 ::: entry-body
-**MSc in Economics and Econometrics** [with honours]{.tag}\
+**MSc in Economics and Econometrics**\
 University of Bologna, Italy
 :::
 :::
@@ -50,7 +50,7 @@ University of Bologna, Italy
 [Sept 2018 – July 2021]{.entry-date}
 
 ::: entry-body
-**BSc in Economia Aziendale** [with honours]{.tag}\
+**BSc in Economia Aziendale**\
 University of Bologna, Italy
 :::
 :::
